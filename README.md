@@ -2,8 +2,7 @@
   
 # 👋 Welcome to My Digital Universe!
 
-FROM: <img src="https://github.com/ai-aadi-ops/ai-aadi-ops/commit/324de547ebcfa1709e9af837eecd8feffbc11589#diff-236184d6063e2a65d0c4b9c4959e32d37cd446b49db07d3dd4030350b37b4dac"
-TO: <img src="./AADI.png"
+<img src="./AADI.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #0366d6;" alt="Aaditya Acharya">
 
 ## **Aaditya Acharya** 
 ### 🎯 DevOps Engineer | 🚀 CI/CD Specialist | 🛠️ Automation Enthusiast | 🌐 Cloud Architect | 🤖 AI Enthusiast
