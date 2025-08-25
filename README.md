@@ -2,8 +2,7 @@
   
 # 👋 Welcome to My Digital Universe!
 
-FROM: AADI.png
-TO: <img src="./AADI.png"
+ADD: <img src="./AADI.png"
 
 ## **Aaditya Acharya** 
 ### 🎯 DevOps Engineer | 🚀 CI/CD Specialist | 🛠️ Automation Enthusiast | 🌐 Cloud Architect | 🤖 AI Enthusiast
