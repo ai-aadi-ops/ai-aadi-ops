@@ -2,7 +2,7 @@
   
 # 👋 Welcome to My Digital Universe!
 
-FROM: <img src="https://customer-assets.emergentagent.com/job_github-showcase-3/artifacts/xeawk472_AADI.png"
+FROM: <img src="https://github.com/ai-aadi-ops/ai-aadi-ops/commit/324de547ebcfa1709e9af837eecd8feffbc11589#diff-236184d6063e2a65d0c4b9c4959e32d37cd446b49db07d3dd4030350b37b4dac"
 TO: <img src="./AADI.png"
 
 ## **Aaditya Acharya** 
