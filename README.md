@@ -2,7 +2,8 @@
   
 # 👋 Welcome to My Digital Universe!
 
-<img src="https://customer-assets.emergentagent.com/job_github-showcase-3/artifacts/xeawk472_AADI.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #0366d6;" alt="Aaditya Acharya">
+FROM: <img src="https://customer-assets.emergentagent.com/job_github-showcase-3/artifacts/xeawk472_AADI.png"
+TO: <img src="./AADI.png"
 
 ## **Aaditya Acharya** 
 ### 🎯 DevOps Engineer | 🚀 CI/CD Specialist | 🛠️ Automation Enthusiast | 🌐 Cloud Architect | 🤖 AI Enthusiast
