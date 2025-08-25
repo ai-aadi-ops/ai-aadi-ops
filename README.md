@@ -7,7 +7,11 @@
 ## **Aaditya Acharya** 
 ### 🎯 DevOps Engineer | 🚀 CI/CD Specialist | 🛠️ Automation Enthusiast | 🌐 Cloud Architect | 🤖 AI Enthusiast
 
-<img src="https://images.unsplash.com/photo-1690585703267-de31ea667ef0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2Nzd8MHwxfHNlYXJjaHwxfHxjb2RpbmclMjBiYW5uZXJ8ZW58MHx8fHwxNzU2MTMyMzM3fDA&ixlib=rb-4.1.0&q=85" width="100%" height="300" alt="Coding Banner">
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <em>Welcome to my GitHub Profile! Passionate about Automation & CI/CD | AI Technology Enthusiast | Always Learning, Always Growing!</em>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!;DevOps+Engineer+%40+TCS;Passionate+about+Automation+%26+CI%2FCD;AI+Technology+Enthusiast;Always+Learning%2C+Always+Growing!)](https://git.io/typing-svg)
 
