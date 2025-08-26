@@ -2,7 +2,7 @@
   
 # 👋 Welcome to My Digital Universe!
 
-<img src="./AADI.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #0366d6;" alt="Aaditya Acharya">
+<img src="./AADI.jpg" width="300" height="500" style="border-radius: 50%; border: 4px solid #0366d6;" alt="Aaditya Acharya">
 
 ## **Aaditya Acharya** 
 ### 🎯 DevOps Engineer | 🚀 CI/CD Specialist | 🛠️ Automation &  🤖 AI Enthusiast | 🌐 Cloud Architect |
