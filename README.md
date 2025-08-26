@@ -179,7 +179,7 @@ Working on a **live banking project** where I'm integrating **AI technologies** 
 |-------|-------------|----------------|
 | **On The Spot Award #2** | TCS | Providing exceptional 24/7 team support |
 | **Service Commitment Award** | TCS | Years of seamless contribution to organization |
-| **TCS AI Spark** | TCS | Provided amazing Idea's for making process faster and smoother |
+| **TCS AI Spark** | TCS | Implementing amazing AI Idea's for making process faster and smoother |
 | **Growth School AI Certificate** | Growth School | Completing 3-day AI Technology Workshop |
 
 
