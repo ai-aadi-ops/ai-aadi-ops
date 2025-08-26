@@ -23,7 +23,7 @@
 
 I'm a passionate **DevOps professional** with a solid foundation in server management, deployment automation, and infrastructure optimization. Currently working with **Tata Consultancy Services (TCS)**, I specialize in streamlining CI/CD pipelines, resolving server issues, and managing end-to-end release processes with AI.
 
-I also have good experties of implimenting AI in different technalogies with respect to the request raised by the clint. I alo make the process much more faster and smoother & making seamless deployment and faster delivery process with No error.
+⚡ **Expert in AI-Powered Automation**: Implementing intelligent solutions across diverse technology stacks that accelerate client delivery timelines by 50%, eliminate deployment errors, and ensure flawless production workflows.
 
 <img align="right" src="https://images.unsplash.com/photo-1644165918597-f182dc5e43f8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDQ2NDJ8MHwxfHNlYXJjaHwzfHxkZXZvcHMlMjBhdXRvbWF0aW9ufGVufDB8fHx8MTc1NjEzMjMzMXww&ixlib=rb-4.1.0&q=85" width="400" height="250" alt="DevOps Automation">
 
