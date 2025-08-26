@@ -5,7 +5,7 @@
 <img src="./AADI.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #0366d6;" alt="Aaditya Acharya">
 
 ## **Aaditya Acharya** 
-### 🎯 DevOps Engineer | 🚀 CI/CD Specialist | 🛠️ Automation Enthusiast | 🌐 Cloud Architect | 🤖 AI Enthusiast
+### 🎯 DevOps Engineer | 🚀 CI/CD Specialist | 🛠️ Automation &  🤖 AI Enthusiast | 🌐 Cloud Architect |
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -21,7 +21,9 @@
 
 ## 💼 About Me
 
-I'm a passionate **DevOps professional** with a solid foundation in server management, deployment automation, and infrastructure optimization. Currently working with **Tata Consultancy Services (TCS)**, I specialize in streamlining CI/CD pipelines, resolving server issues, and managing end-to-end release processes.
+I'm a passionate **DevOps professional** with a solid foundation in server management, deployment automation, and infrastructure optimization. Currently working with **Tata Consultancy Services (TCS)**, I specialize in streamlining CI/CD pipelines, resolving server issues, and managing end-to-end release processes with AI.
+
+I also have good experties of implimenting AI in different technalogies with respect to the request raised by the clint. I alo make the process much more faster and smoother & making seamless deployment and faster delivery process with No error.
 
 <img align="right" src="https://images.unsplash.com/photo-1644165918597-f182dc5e43f8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDQ2NDJ8MHwxfHNlYXJjaHwzfHxkZXZvcHMlMjBhdXRvbWF0aW9ufGVufDB8fHx8MTc1NjEzMjMzMXww&ixlib=rb-4.1.0&q=85" width="400" height="250" alt="DevOps Automation">
 
@@ -31,7 +33,7 @@ I'm a passionate **DevOps professional** with a solid foundation in server manag
 - 💻 Scripting master in **Python, Shell**, and **SQL**
 - 🛠️ Automation workflow optimization specialist
 - 🏆 **Achieved 30% reduction** in deployment release time via CI/CD pipeline optimization
-- 🤖 **AI Technology Explorer** - Leveraging AI in DevOps and Banking projects
+- 🤖 **AI Technology Explorer** - Leveraging AI in DevOps, Banking & Distinguishable usecase.
 
 ---
 
@@ -74,7 +76,7 @@ I'm a passionate **DevOps professional** with a solid foundation in server manag
 <img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2Njd8MHwxfHNlYXJjaHwxfHxBSSUyMGxlYXJuaW5nfGVufDB8fHx8MTc1NjEzMjQyMnww&ixlib=rb-4.1.0&q=85" width="400" height="250" alt="AI Learning">
 </div>
 
-### 🚀 **Recently Completed: 3-Day AI Technology Intensive Workshop**
+### 🚀 **Completed: 3-Day AI Technology Intensive Workshop**
 
 I recently participated in an intensive **3-day Growth School workshop** focused on **AI Technologies and their transformative applications** in today's rapidly evolving digital landscape.
 
@@ -159,7 +161,7 @@ Working on a **live banking project** where I'm integrating **AI technologies** 
 
 ### 🏦 **Banking Project AI Integration** - *Current Work at TCS*
 **🎯 Project Focus:**
-- Integrating **AI technologies** learned from Growth School into live banking systems
+- Integrating **AI technologies** (learned from Growth School and different free sorces) into live banking systems
 - **Automated Testing & Deployment** using AI-powered tools
 - **Intelligent Monitoring Systems** with predictive analytics
 - **AI-Enhanced Documentation** for better project management
@@ -177,7 +179,9 @@ Working on a **live banking project** where I'm integrating **AI technologies** 
 |-------|-------------|----------------|
 | **On The Spot Award #2** | TCS | Providing exceptional 24/7 team support |
 | **Service Commitment Award** | TCS | Years of seamless contribution to organization |
+| **TCS AI Spark** | TCS | Provided amazing Idea's for making process faster and smoother |
 | **Growth School AI Certificate** | Growth School | Completing 3-day AI Technology Workshop |
+
 
 </div>
 
@@ -218,7 +222,7 @@ graph LR
     A[Advanced Kubernetes] --> B[CloudFormation & Terraform]
     B --> C[GitHub Actions Mastery]
     C --> D[System Design & SRE]
-    D --> E[AI DevOps Integration]
+    D --> E[AI Integration]
     E --> F[Cloud Architecture]
 ```
 
@@ -229,7 +233,7 @@ graph LR
 - ☁️ **CloudFormation & Terraform** - Infrastructure automation mastery
 - 🚀 **GitHub Actions** - Next-gen CI/CD pipeline automation
 - 🏗️ **System Design & SRE Practices** - Building resilient systems
-- 🤖 **AI-Powered DevOps** - Integrating AI in deployment processes
+- 🤖 **AI-Powered Infrastructures** - Integrating AI in required processes
 - 🏛️ **Cloud Architecture Patterns** - Designing scalable solutions
 
 #### **🎯 Future Goals:**
