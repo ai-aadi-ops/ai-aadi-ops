@@ -283,9 +283,9 @@ graph LR
 
 ### **🌐 Find Me Online**
 
-[![Email](https://img.shields.io/badge/-shivaadityaacharya@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivaadityaacharya@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Shiva_Aditya_Acharya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivaadityaacharya)
-[![GitHub](https://img.shields.io/badge/-ai--aadi--ops-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ai-aadi-ops)
+[![Email](https://img.shields.io/badge/-aadityaacharya2109@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivaadityaacharya@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivaadityaacharya)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ai-aadi-ops)
 [![Location](https://img.shields.io/badge/-Jaipur,_Rajasthan,_India-FF5722?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Jaipur,Rajasthan,India)
 
 ### **💬 Always Open For:**
