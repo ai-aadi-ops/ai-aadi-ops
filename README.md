@@ -17,33 +17,6 @@
 
 </div>
 
----
-
-# 🧠 AI Conversational Agent (Independent Project – 2021)
-
-##  Overview
-Built a Python-based **AI Conversational Agent** using PyCharm that responds intelligently to user-defined topics. This project showcases my early innovation in blending Python with NLP-powered user interactions.
-
-##  Features
-- Context-aware conversational Q&A
-- Lightweight and easy-to-run
-- Designed for real-time user input
-
-##  Tech Stack
-- Language: Python  
-- Tools: PyCharm  
-- Libraries: NLTK, Regex, Basic NLP Modules
-
-##  Demonstration
-Watch the live demo of the agent on LinkedIn:
-[![Watch Demo on LinkedIn](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/aaditya-ops_develop-experience-programming-activity-6740675139710574592-2ne4)
-
-##  Impact
-- Shared publicly on LinkedIn and received good engagement
-- Early proof of proficiency in conversational AI using Python
-
----
-
 
 ## 💼 About Me
 
@@ -169,6 +142,40 @@ Working on a **live banking project** where I'm integrating **AI technologies** 
 ---
 
 ## 📜 Featured Projects
+
+---
+
+# 🧠 AI Conversational Agent (Independent Project – 2021)
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" width="200" height="200" alt="AI Chatbot Logo">
+</p>
+
+## 📌 Overview
+Built a Python-based **AI Conversational Agent** using PyCharm that responds intelligently to user-defined topics.  
+This project showcases my early innovation in blending Python with NLP-powered user interactions.
+
+## 🚀 Features
+- 🗨️ Context-aware conversational Q&A
+- ⚡ Lightweight and easy-to-run
+- 🎯 Designed for real-time user input
+
+## 🛠️ Tech Stack
+- **Language:** Python  
+- **IDE:** PyCharm  
+- **Libraries:** NLTK, Regex, Basic NLP Modules  
+
+## 🎥 Demonstration
+Watch the live demo of the agent on LinkedIn:  
+
+[![Watch Demo on LinkedIn](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/aaditya-ops_develop-experience-programming-activity-6740675139710574592-2ne4)
+
+## 📊 Impact
+- ✅ Shared publicly on LinkedIn and received strong engagement  
+- ✅ Early proof of proficiency in **Conversational AI** using Python  
+
+---
+
 
 ### 🧠 **Robust Visual Analysis of Eye State** - *AI-Powered Safety Solution*
 <img align="right" src="https://images.pexels.com/photos/9783353/pexels-photo-9783353.jpeg" width="250" height="180" alt="AI Technology">
