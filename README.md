@@ -19,6 +19,32 @@
 
 ---
 
+# 🧠 AI Conversational Agent (Independent Project – 2021)
+
+##  Overview
+Built a Python-based **AI Conversational Agent** using PyCharm that responds intelligently to user-defined topics. This project showcases my early innovation in blending Python with NLP-powered user interactions.
+
+##  Features
+- Context-aware conversational Q&A
+- Lightweight and easy-to-run
+- Designed for real-time user input
+
+##  Tech Stack
+- Language: Python  
+- Tools: PyCharm  
+- Libraries: NLTK, Regex, Basic NLP Modules
+
+##  Demonstration
+Watch the live demo of the agent on LinkedIn:
+[![Watch Demo on LinkedIn](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/aaditya-ops_develop-experience-programming-activity-6740675139710574592-2ne4)
+
+##  Impact
+- Shared publicly on LinkedIn and received good engagement
+- Early proof of proficiency in conversational AI using Python
+
+---
+
+
 ## 💼 About Me
 
 I'm a passionate **DevOps professional** with a solid foundation in server management, deployment automation, and infrastructure optimization. Currently working with **Tata Consultancy Services (TCS)**, I specialize in streamlining CI/CD pipelines, resolving server issues, and managing end-to-end release processes with AI.
