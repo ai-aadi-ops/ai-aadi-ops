@@ -18,12 +18,15 @@
 
 ## 🔐 About Me — *Where DevSecOps Meets AI*
 
+<img align="right" src="https://images.unsplash.com/photo-1644165918597-f182dc5e43f8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDQ2NDJ8MHwxfHNlYXJjaHwzfHxkZXZvcHMlMjBhdXRvbWF0aW9ufGVufDB8fHx8MTc1NjEzMjMzMXww&ixlib=rb-4.1.0&q=85" width="400" height="150" alt="DevOps Automation">
+
 I am a **DevSecOps Engineer** with deep experience in secure CI/CD pipelines, cloud infrastructure, automation, and **AI-powered engineering**. Working in a live **banking environment at TCS**, I design and implement secure, scalable and AI-augmented DevOps workflows.
 
 My expertise blends **DevOps + Security + Cloud + AI** to solve modern engineering challenges.
 
 ### 💡 I Focus On:
 
+<aling="left"
 * ✔️ Security-first CI/CD (SAST, DAST, Quality Gates)
 * ✔️ Cloud-native deployment automation
 * ✔️ Intelligent release validation (Python + AI)
@@ -35,6 +38,8 @@ My expertise blends **DevOps + Security + Cloud + AI** to solve modern engineeri
 ---
 
 ## 🛡️ DevSecOps Skillset
+
+<img align="right" src="https://images.unsplash.com/photo-1552664730-d307ca884978?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2Njd8MHwxfHNlYXJjaHwyfHxza2lsbCUyMGRldmVsb3BtZW50fGVufDB8fHx8MTc1NjEzMjQzOHww&ixlib=rb-4.1.0&q=85" width="300" height="200" alt="Skill Development">
 
 ### **Security Tools & Practices**
 
@@ -87,6 +92,8 @@ I strongly believe **AI is the next evolution of DevOps**. I integrate AI in rea
 
 ## 🏦 Banking DevSecOps Project — TCS
 
+<img align="right" src="https://images.unsplash.com/photo-1716436329836-208bea5a55e6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDQ2NDJ8MHwxfHNlYXJjaHw0fHxkZXZvcHMlMjBhdXRvbWF0aW9ufGVufDB8fHx8MTc1NjEzMjMzMXww&ixlib=rb-4.1.0&q=85" width="350" height="220" alt="AI Technology">
+
 ### **Core Responsibilities:**
 
 * Implementing **automated CI/CD pipelines** for banking applications
@@ -106,6 +113,10 @@ I strongly believe **AI is the next evolution of DevOps**. I integrate AI in rea
 ---
 
 ## 🧠 Featured Projects
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" width="200" height="200" alt="AI Chatbot Logo">
+</p>
 
 ### **1️⃣ AI-Enhanced CI/CD Security Pipeline**
 
