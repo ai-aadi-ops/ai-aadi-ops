@@ -77,8 +77,9 @@ I strongly believe **AI is the next evolution of DevOps**. I integrate AI in rea
 ### **AI Tools I Leverage:**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge\&logo=openai)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
+![EmergentAI](https://img.shields.io/badge/EmergentAI-0A66C2?style=for-the-badge&logo=superuser)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google)
+![Claude](https://img.shields.io/badge/Claude-AI5CFF?style=for-the-badge&logo=anthropic)
 
 > **“AI won’t replace DevOps engineers — but DevOps engineers using AI will outperform the rest.”**
 
@@ -165,8 +166,8 @@ E --> F[Full AI-Augmented DevSecOps Ecosystem]
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail)](mailto:shivaadityaacharya@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/shivaadityaacharya)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail)](mailto:aaditya.acharya@zohomail.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)]([https://linkedin.com/in/shivaadityaacharya](https://www.linkedin.com/in/aaditya-ops/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/ai-aadi-ops)
 
 </div>
