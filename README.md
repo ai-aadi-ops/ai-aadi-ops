@@ -88,8 +88,8 @@ I strongly believe **AI is the next evolution of DevOps**. I integrate AI in rea
 
 ### **Core Responsibilities:**
 
-* Implementing **secure and automated CI/CD pipelines** for banking applications
-* Integrating **SonarQube, Fortify, and custom Python security scripts**
+* Implementing **automated CI/CD pipelines** for banking applications
+* Integrating **SonarQube, Fortify with custom Python security**
 * Automating deployment verification & environment readiness
 * Reducing manual overhead with AI-driven workflow automation
 * Managing cloud resources with Ansible & AWS
