@@ -144,7 +144,7 @@ I strongly believe **AI is the next evolution of DevOps**. I integrate AI in rea
 </p>
 
 
-**AI-powered secure log sanitization & contextual incident triage engine for banking production support**
+####**AI-powered secure log sanitization & contextual incident triage engine for banking production support**
 
 #### 🚀 Key Capabilities
 * Detects probable issue owner automatically:
@@ -186,8 +186,11 @@ I strongly believe **AI is the next evolution of DevOps**. I integrate AI in rea
 ✔ Reduced manual triage effort  
 ✔ Better incident routing & ownership clarity
 
-[![Project Repo](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/ai-aadi-ops/banking-incident-ai-assistant)
-
+<p align="center">
+  <a href="https://github.com/ai-aadi-ops/banking-incident-ai-assistant">
+    <img width="420" src="https://img.shields.io/badge/🚀_View_Project_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 ## 🏅 Achievements
 
