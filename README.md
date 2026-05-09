@@ -137,6 +137,58 @@ I strongly believe **AI is the next evolution of DevOps**. I integrate AI in rea
 
 ---
 
+### **4️⃣ Banking Incident AI Assistant (Production Support Automation)**
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="180" height="180" alt="Incident AI Assistant">
+</p>
+
+
+**AI-powered secure log sanitization & contextual incident triage engine for banking production support**
+
+#### 🚀 Key Capabilities
+* Detects probable issue owner automatically:
+  - Testing / QA
+  - Development
+  - Deployment / Release
+  - Server Management / Infra
+  - Database
+  - Network
+
+* Auto severity classification:
+  - Sev1 Critical
+  - Sev2 High
+  - Sev3 Medium
+  - Sev4 Low
+
+* Secure log sanitization:
+  - Masks IPs
+  - Masks account numbers
+  - Masks phone numbers
+  - Masks emails
+  - Masks file paths
+  - Masks server names
+
+* Dynamic AI prompt generation:
+  - Context-aware RCA prompts
+  - Issue-owner specific prompts
+  - Production-ready sanitized logs for AI troubleshooting
+
+#### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Regex](https://img.shields.io/badge/Regex-000000?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-0A66C2?style=for-the-badge)
+![AI Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7B61FF?style=for-the-badge)
+
+#### 📈 Impact
+✔ Faster RCA preparation  
+✔ Secure AI usage with sanitized logs  
+✔ Reduced manual triage effort  
+✔ Better incident routing & ownership clarity
+
+[![Project Repo](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/ai-aadi-ops/banking-incident-ai-assistant)
+
+
 ## 🏅 Achievements
 
 * 🏆 **TCS Constant Companion Award** – Outstanding dedication & project impact
